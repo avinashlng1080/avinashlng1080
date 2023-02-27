@@ -1,34 +1,18 @@
-# Portfolio Starter Kit
+### Hi there 👋
 
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
-
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
-
-## Configuration
-
-1. Update your name in `theme.config.js` or change the footer.
-1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
-1. Update the meta tags in `pages/_document.js`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/nextjs-portfolio-starter&project-name=portfolio&repository-name=portfolio)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example blog my-blog
-# or
-yarn create next-app --example blog my-blog
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- With over a decade of professional experience in the field of Software Engineering, I have honed my craft working with a diverse array of entities,
+  from multinational corporations in Europe to edging startups in South Africa to domestic companies in the United States. Throughout my journey,
+  my passion for mobile development has only intensified.
+- As a seasoned React Native developer, I have contributed to the development of numerous applications, from ideation to publication on the AppStore
+  and PlayStore, while providing continuous on-call support, hyper-care, and managing client communications.
+- Moreover, I have spearheaded a team of ten developers, all while mentoring and coaching my peers, conducting pair-programming sessions, scrutinizing
+  Pull Requests, troubleshooting persistent technical issues, writing + debugging iOS/Android code, patching third-party libraries, and, of course,
+  fulfilling my daily responsibilities.
+- My approach to new features includes designing and crafting solutions while promoting interdepartmental
+  collaboration to achieve our collective goals.
+- I take great pride in my contributions to humanitarian efforts, as my work has saved the lives of over 124,000 individuals from war-ravaged
+  countries. Additionally, I am gratified to have had a role in the rewrite of the chat application utilized by the team at NASA.
+- I am enthusiastic about exploring new opportunities as a React Native Developer, and I am eager to expand my skill set to include full-stack
+  development.
+- Coming from a rich background in Software Engineering, I breathe life into mobile apps through ingenuity, passion, experience, best practices,
+  and dedication.
