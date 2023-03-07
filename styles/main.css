@@ -56,10 +56,20 @@ img.next-image {
   margin: 0;
 }
 
+div.rounded {
+  overflow: hidden;
+  width: 500px;
+  height: 660px;
+  border-radius: 45px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 80px;
+}
 .prose a {
   color: #0074de;
 }
 
 .nav-line .nav-link {
   color: #69778c;
+  display: none;
 }
