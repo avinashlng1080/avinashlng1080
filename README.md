@@ -1,18 +1,30 @@
 ### Hi there 👋
 
-- With over a decade of professional experience in the field of Software Engineering, I have honed my craft working with a diverse array of entities,
-  from multinational corporations in Europe to edging startups in South Africa to domestic companies in the United States. Throughout my journey,
-  my passion for mobile development has only intensified.
-- As a seasoned React Native developer, I have contributed to the development of numerous applications, from ideation to publication on the AppStore
-  and PlayStore, while providing continuous on-call support, hyper-care, and managing client communications.
-- Moreover, I have spearheaded a team of ten developers, all while mentoring and coaching my peers, conducting pair-programming sessions, scrutinizing
-  Pull Requests, troubleshooting persistent technical issues, writing + debugging iOS/Android code, patching third-party libraries, and, of course,
-  fulfilling my daily responsibilities.
-- My approach to new features includes designing and crafting solutions while promoting interdepartmental
-  collaboration to achieve our collective goals.
-- I take great pride in my contributions to humanitarian efforts, as my work has saved the lives of over 124,000 individuals from war-ravaged
-  countries. Additionally, I am gratified to have had a role in the rewrite of the chat application utilized by the team at NASA.
-- I am enthusiastic about exploring new opportunities as a React Native Developer, and I am eager to expand my skill set to include full-stack
-  development.
-- Coming from a rich background in Software Engineering, I breathe life into mobile apps through ingenuity, passion, experience, best practices,
-  and dedication.
+- With **over 11 years** of professional experience in the field of Software Engineering, I have honed my craft working  
+  with a diverse array of entities, from multinational corporations in Europe to leading teams in startups in South Africa  
+  to domestic companies in the United States.
+- As a seasoned React Native developer, I have contributed to the development of numerous applications, from ideation  
+  to publication on the AppStore and PlayStore, while providing continuous on-call support, hyper-care, and managing  
+  client communications.
+- My day-to-day responsibilities include designing and implementing new features, as well as maintaining and improving  
+  existing codebases, mentoring and coaching my peers, conducting pair-programming sessions, scrutinizing Pull Requests,  
+  troubleshooting long-running technical issues, writing + debugging iOS/Android code, patching third-party libraries,  
+  and, of course, fulfilling my other daily responsibilities.
+- I rely heavily on team communication and collaboration and as such, I am a strong advocate for Agile methodologies and  
+  best practices.  Normally, I would choose what works best for the team, but I am also comfortable with the Waterfall  
+  methodology or adhere to the company's convention.
+- I make sure that all of my work is thoroughly tested and documented, and I am a stickler for code quality and  
+  maintainability.  I am also a strong proponent of continuous integration and unit testing.
+- Throughout the Software Development Lifecycle, I make sure that all stakeholders are kept in the loop and that all  
+  requirements are met.  I am also a strong advocate for the use of design patterns and best practices.
+- Although, I do have my preferences, I am comfortable working with a variety of technologies, including React Native,  
+  React, Redux, Redux-Saga, Redux-Thunk, NextJS, NodeJS, etc... The list goes on.  I am betting on my skills as a  
+  Software Engineer and as such, I am always willing to learn new tech stacks and adopt new methodologies of work based  
+  on the employer principles/strategies.
+- I take great pride in my contributions to humanitarian efforts, as my work has saved the lives of over 124,000 individuals  
+  from war-ravaged countries. Additionally, I am gratified to have had a role in the rewrite of the chat application  
+  utilized by the team at NASA.
+- I am enthusiastic about exploring new opportunities as a React Native Developer, and I am eager to expand my skill set  
+  to include full-stack development.
+- Coming from a rich background in Software Engineering, I breathe life into mobile apps through ingenuity, passion,  
+  experience, best practices, and dedication.
