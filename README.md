@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- With **over 11 years** of professional experience in the field of Software Engineering, I have honed my craft working  
+- With **over 14 years** of professional experience in the field of Software Engineering, I have honed my craft working  
   with a diverse array of entities, from multinational corporations in Europe to leading teams in startups in South Africa  
   to domestic companies in the United States.
 - As a seasoned React Native developer, I have contributed to the development of numerous applications, from ideation  
